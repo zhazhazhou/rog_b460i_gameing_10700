@@ -1,6 +1,6 @@
 # rog_b460i_gameing_10700
 黑苹果 opencore efi
-
+SMBIOS ID 都删了 需要重新生成一份
 
 # 配置
 
